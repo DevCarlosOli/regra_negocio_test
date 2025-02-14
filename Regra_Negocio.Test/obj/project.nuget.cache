@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TrFz3qmLdNw=",
+  "dgSpecHash": "LrFr/1lp3jY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos.Filho\\Desktop\\Projetos\\Regra_Negocio_Test\\Regra_Negocio.Test\\Regra_Negocio.Test.csproj",
+  "projectFilePath": "C:\\Users\\Carlos.Filho\\Desktop\\Projetos\\regra_negocio_test\\Regra_Negocio.Test\\Regra_Negocio.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos.Filho\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Carlos.Filho\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
