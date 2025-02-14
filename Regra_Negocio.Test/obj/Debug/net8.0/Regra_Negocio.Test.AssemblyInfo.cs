@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Regra_Negocio.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f3a7555187a21156c301322869dd9484660cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Regra_Negocio.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Regra_Negocio.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
